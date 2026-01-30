@@ -1,2 +1,2 @@
 # CoTok
-# Submitted to SIGIR 2026
+# Submitted to KDD 2026
